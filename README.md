@@ -6,9 +6,8 @@
 - 🎓 I'm 18 years old and just started my Software Engineering degree.
 - 📍 Based in São Paulo, Brazil.
 ## 💻 Tech Stack & Tools
-- **Languages & Frameworks:** Python, Flask
+- **Languages & Frameworks:** Python
 - **Tools:** Git, GitHub, VS Code
-- **Other:** API Integration (AI, Financial Data)
 
 ## 📈 What I'm working on
 - 🎓 Improving my version control and coding skills through FIAP and Alura projects.

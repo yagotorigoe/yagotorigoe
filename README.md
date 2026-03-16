@@ -2,7 +2,7 @@
 <h3 align="center">👨‍💻 Software Engineering Student at FIAP</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=github.com/yagotorigoe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=yagotorigoe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ## 🚀 About Me
@@ -21,8 +21,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yagotorigoe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yagotorigoe&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </div>
 
 ## 📫 How to reach me

@@ -2,7 +2,7 @@
 <h3 align="center">👨‍💻 Software Engineering Student at FIAP</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=github.com/yagotorigoe&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ## 🚀 About Me

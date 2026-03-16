@@ -1,20 +1,42 @@
-# Hello Devs, I'm Yago! 👋
+<h1 align="center">Hello Devs, I'm Yago! 👋</h1>
+<h3 align="center">👨‍💻 Software Engineering Student at FIAP</h3>
 
-👨‍💻 Software Engineering Student at **FIAP**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ## 🚀 About Me
-- 🎓 I'm 18 years old and just started my Software Engineering degree.
+- 🎓 I'm 18 years old and just started my Software Engineering degree at **FIAP**.
 - 📍 Based in São Paulo, Brazil.
-## 💻 Tech Stack & Tools
-- **Languages & Frameworks:** Python, JavaScript
-- **Tools:** Git, GitHub, VS Code
+- 📈 Focusing on improving my version control and coding skills through university projects and **Alura**.
 
-## 📈 What I'm working on
-- 🎓 Improving my version control and coding skills through FIAP and Alura projects.
+## 💻 Tech Stack & Tools
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,git,github,vscode" alt="My Skills" />
+  </a>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+</div>
 
 ## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/yago-hideo-torigoe-529b543b3/)
-- [Email](mailto:yagohideotorigoe@gmail.com)
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/yago-hideo-torigoe-529b543b3/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:yagohideotorigoe@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
 
 ---
-⭐️ *From a Dev-in-progress to the world.*
+<div align="center">
+  ⭐️ <i>From a Dev-in-progress to the world.</i>
+</div>

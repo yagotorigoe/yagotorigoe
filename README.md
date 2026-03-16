@@ -6,7 +6,7 @@
 - 🎓 I'm 18 years old and just started my Software Engineering degree.
 - 📍 Based in São Paulo, Brazil.
 ## 💻 Tech Stack & Tools
-- **Languages & Frameworks:** Python
+- **Languages & Frameworks:** Python, JavaScript
 - **Tools:** Git, GitHub, VS Code
 
 ## 📈 What I'm working on
